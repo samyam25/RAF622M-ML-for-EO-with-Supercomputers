@@ -55,11 +55,11 @@ Work through the notebooks sequentially starting with Lab 1.
 |-----|-------|----------|
 | 1 | Judoor & HPC Access | `lab1_judoor_hpc_access.ipynb` |
 | 2 | Jupyter-JSC & Git | `lab2_jupyter_jsc_git.ipynb` |
-| 3 | Sentinel-2 Acquisition | `lab3_gee_sentinel2_acquisition.ipynb` |
-| 4 | Data Preprocessing | `lab4.1_preprocessing.ipynb` |
-| 5 | Patch Extraction | `lab4.2_preprocessing_patches.ipynb` |
-| 6 | Model Training | `lab5.1_baseline_training.ipynb` |
-| 7 | Model Evaluation | `lab5.2_model_evaluation.ipynb` |
+| 3 | Sentinel-2 Acquisition | `lab3_1_data_acquisition.ipynb` |
+| 4 | Data Preprocessing | `lab4_1_preprocessing.ipynb` |
+| 5 | Patch Extraction | `lab4_2_preprocessing_patches.ipynb` |
+| 6 | Model Training | `lab5_1_baseline_training.ipynb` |
+| 7 | Model Evaluation | `lab5_2_model_evaluation.ipynb` |
 | 8 | TerraTorch Fine-tuning | `lab6_finetune.ipynb` |
 
 ## 📖 Documentation
